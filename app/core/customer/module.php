@@ -1,11 +1,11 @@
 <?php
 
-namespace frontend\modules\loan;
+namespace app\core\user;
 
 
 class module extends \yii\base\Module
 {
-	public $controllerNamespace = 'frontend\modules\loan\controllers';
+	public $controllerNamespace = 'app\core\user\controllers';
 
 	public function init()
 	{
