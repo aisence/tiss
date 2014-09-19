@@ -1,5 +1,5 @@
 <?php
-namespace app\local\loan\controllers;
+namespace app\local\loan\controllers\frontend;
 
 use Yii;
 use yii\web\Controller;
