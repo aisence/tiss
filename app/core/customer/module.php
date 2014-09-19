@@ -1,11 +1,11 @@
 <?php
 
-namespace app\core\user;
+namespace app\core\customer;
 
 
 class module extends \yii\base\Module
 {
-	public $controllerNamespace = 'app\core\user\controllers';
+	public $controllerNamespace = 'app\core\customer\controllers';
 
 	public function init()
 	{
